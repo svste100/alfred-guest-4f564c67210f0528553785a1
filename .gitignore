@@ -1,0 +1,8 @@
+# Local-only guest delivery material
+.guest-link
+.guest-fragment
+.repo-name
+build_vault.py
+
+# System files
+.DS_Store
